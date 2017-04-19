@@ -1,0 +1,33 @@
+
+body {
+  margin: 0px;
+}
+
+nav {
+  background: #86969c;
+  display: flex;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-left: 20px;
+  font-family: 'lato', sans-serif;
+  color: #fff;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-nav,
+.secundary-nav  {
+  display: flex;
+  list-style: none;
+  padding: 0px;
+  }
+
+.main-nav li,
+.secundary-nav li
+ {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
